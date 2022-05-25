@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gBELt+KSrjc3wU/gRgS9GT6EivVn1tHHJ2dFRZhW9w4rwr4yY06lTFP910vt/DN0KLPhIqhwL+nfv3K8IaFcjw==",
+  "success": true,
+  "projectFilePath": "/Users/home/csharpprojects/helloworld/helloworld/helloworld.csproj",
+  "expectedPackageFiles": [
+    "/Users/home/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/Users/home/csharpprojects/helloworld/helloworld/bin/Debug/net5.0/helloworld
+/Users/home/csharpprojects/helloworld/helloworld/bin/Debug/net5.0/helloworld.deps.json
+/Users/home/csharpprojects/helloworld/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/home/csharpprojects/helloworld/helloworld/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/home/csharpprojects/helloworld/helloworld/bin/Debug/net5.0/helloworld.dll
+/Users/home/csharpprojects/helloworld/helloworld/bin/Debug/net5.0/helloworld.pdb
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.csproj.AssemblyReference.cache
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.dll
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/refint/helloworld.dll
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.pdb
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/helloworld.genruntimeconfig.cache
+/Users/home/csharpprojects/helloworld/helloworld/obj/Debug/net5.0/ref/helloworld.dll
